@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/LearnWithCherry/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/LearnWithCherry/LeetCode/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LearnWithCherry/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/LearnWithCherry/LeetCode/tree/master/0704-binary-search) |
 ## Interactive
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/LearnWithCherry/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/LearnWithCherry/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/LearnWithCherry/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/LearnWithCherry/LeetCode/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
