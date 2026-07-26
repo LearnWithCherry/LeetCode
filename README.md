@@ -19,6 +19,7 @@
 | [0035-search-insert-position](https://github.com/LearnWithCherry/LeetCode/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/LearnWithCherry/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/LearnWithCherry/LeetCode/tree/master/0704-binary-search) |
 | [0994-rotting-oranges](https://github.com/LearnWithCherry/LeetCode/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -33,6 +34,7 @@
 | [0009-palindrome-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/LearnWithCherry/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/LearnWithCherry/LeetCode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/LearnWithCherry/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 ## Breadth-First Search
 |  |
 | ------- |
