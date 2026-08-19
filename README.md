@@ -93,6 +93,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/LearnWithCherry/LeetCode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/LearnWithCherry/LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/LearnWithCherry/LeetCode/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/LearnWithCherry/LeetCode/tree/master/0412-fizz-buzz) |
 ## Brainteaser
 |  |
@@ -105,6 +106,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/LearnWithCherry/LeetCode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/LearnWithCherry/LeetCode/tree/master/0283-move-zeroes) |
 ## Enumeration
 |  |
